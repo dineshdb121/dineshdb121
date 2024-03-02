@@ -1,4 +1,3 @@
-![20240301_200935](https://github.com/dineshdb121/YoutubeClone_Android_Java/assets/70446268/8759563a-87a2-475c-b869-5c70a574dfae)
 
 <h1 align="center">Hi 👋, I'm DINESHKUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
